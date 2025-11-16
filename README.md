@@ -1,3 +1,8 @@
+# My contributions:
+The Polish-language application represents an implementation of an emotion recognition system that integrates all components within a single FastAPI service. The Polish implementation is based on a traditional server-side rendering approach, using Jinja2 templates and plain JavaScript.
+
+
+
 # Audio Emotion Detection App
 
 A web application that records audio from the user's browser and analyzes emotions using a PyTorch **ResNet18 model trained on mel spectrograms**. It features a backend API built with FastAPI for processing and a frontend built with React Bootstrap for the user interface.
